@@ -1,0 +1,429 @@
+aliases,industries,countries,software,malware,vulns,targeted_products,attacks
+Mudcarp,Manufacturing,BEL,COBALTSTRIKE,ABPTTS,CVE-2017-0148,Virtualization,T1098
+Red Ladon,Aerospace & Defense,SAU,DSGET,ACEHASH,CVE-2017-0146,SIMATIC S7-1500T Firmware,T1555
+TEMP.Periscope,Financial Services,TWN,DSQUERY,AIRBREAK,CVE-2017-0145,Ibm Security Network Protection Xgs 4100,T1573
+Deep Panda,Chemicals & Materials,MYS,FSCAN,BADFLICK,CVE-2017-0143,Opera,T1021
+Leviathan,Construction & Engineering,KHM,GSECDUMP,BADSIGN,CVE-2014-6352,Lefthand OS,T1003
+Hellsing,Healthcare,GBR,,BLACKCOFFEE,CVE-2014-0160,Bladesystem C-Class Onboard Administrator,T1003.001
+NanHaiShu,Legal & Professional Services,CHE,,CHINACHOP,CVE-2018-0802,Ibm Smartcloud Entry,T1003.003
+Periscope,Retail,NOR,,COOKIEFISH,CVE-2017-8759,Version Control Agent,T1007
+Flax Typhoon,Hospitality,HKG,,DADBOD,CVE-2017-8570,Security Management,T1010
+TA423,Technology,PHL,,DADJOKE,CVE-2017-11882,Laserjet Pro M706,T1012
+,Agriculture,USA,,DADSTACHE,CVE-2017-0199,Relion 650 Series,T1014
+,Media & Entertainment,DEU,,DEATHCLOCK,CVE-2017-0147,Gentoo (Rolling Release),T1016
+,Governments,,,DISHCLOTH,CVE-2017-0144,Nonstop Volume Level Encryption J06.12,T1021.001
+,Automotive,,,ESKC2,CVE-2012-0158,Enterprise Linux Server AUS (OS),T1021.004
+,Civil Society & Non-Profits,,,EVILTECH,CVE-2022-37042,Ws Ftp Professional,T1021.006
+,Oil & Gas,,,FIELDGOAL,CVE-2022-41352,Aura Presence Services,T1027.002
+,Education,,,FINDLOCK,,Asset Manager,T1027.003
+,Telecommunications,,,FRESHAIR,,Google Search Appliance,T1027.005
+,Transportation,,,GEARSHIFT,,Security Information And Event Management (Siem),T1027
+,Energy & Utilities,,,GREENPIG,,Entuity Network Monitoring For Bppm,T1033
+,,,,GRILLMARK,,Malware Analysis Appliance (Application),T1036
+,,,,Gh0st,,Nonstop Volume Level Encryption J06.11,T1036.001
+,,,,HIGHNOON,,S1000,T1046
+,,,,HOMEFRY,,Proactivenet Performance Management Suite Server,T1047
+,,,,HOUDINI,,Network Node Manager,T1053
+,,,,HTRAN,,Airport Extreme Base Station,T1053.002
+,,,,JFOLDER,,Proxyav,T1053.005
+,,,,JSHELL,,Oracle Communication Session Monitor,T1055
+,,,,JUMPKICK,,Hp Integrated Lights-Out 2 (Ilo2),T1055.003
+,,,,LONGTALK,,Rational ClearQuest,T1055.012
+,,,,LUNCHMONEY,,Endpoint Security Vpn (Application),T1056
+,,,,METASPLOIT,,Antivirus For Vshield,T1056.001
+,,,,METERPRETER,,Sdn Ve,T1057
+,,,,MOVIETIME,,Tivoli Storage Flashcopy Manager (Application),T1059
+,,,,MSVCTL,,Fortios (OS),T1059.001
+,,,,MURKYCATS,,Smart Zero Core,T1059.003
+,,,,MURKYSHELL,,It Executive Scorecard,T1059.005
+,,,,MURKYTOP,,Connectport X2E,T1059.006
+,,,,ODDGOMA,,Afraria 7,T1059.007
+,,,,PAPERCUT,,Windows Server 2016 (OS),T1069
+,,,,PAPERPUSH,,Sql Server (Application),T1070
+,,,,PHOTO,,License Server For Windows,T1070.004
+,,,,PHOTO.ARP,,UCMDB Browser,T1070.006
+,,,,PHOTO.FANG,,System X3500 Series,T1071
+,,,,RABBITPUNCH,,Collaboration,T1071.001
+,,,,REDMAGE,,Storwise v7000 Unified,T1082
+,,,,RELAYRACE,,Horizon Mirage Edge Gateway,T1083
+,,,,SIDETALK,,Biztalk Server,T1087
+,,,,SKNET,,MiVoice,T1090
+,,,,SODACAN,,S9922l Firmware,T1090.003
+,,,,SOGU,,Contact Center Manager,T1095
+,,,,STONEDOWN,,Layer 7 Api Gateway,T1124
+,,,,TIMESPLIT,,Office 2013 Rt (Application),T1102
+,,,,TRACKS,,Nonstop Volume Level Encryption J06.15.01,T1105
+,,,,TRAFFIX,,Utm Liveconnect Servers,T1112
+,,,,TRANSPORTER,,Gluster Storage,T1113
+,,,,TWONICKS,,Security Gateway (Application),T1115
+,,,,WASHBOARD,,Sybase Sql Anywhere Ondemand,T1133
+,,,,WAVEKEY,,T610 Thin Client,T1134
+,,,,WIDETONE,,Big-Ip Edge Clients For Linux 7080,T1134.001
+,,,,WILDELK,,Big-Ip Edge Clients For Linux 7101,T1140
+,,,,WMIEXEC,,Application Processing Engine Firmware,T1189
+,,,,XTHIEF,,Fortigate,T1190
+,,,,ZXSHELL,,Nonstop Volume Level Encryption J06.10.02,T1202
+,,,,,,Smartcloud Orchestrator,T1204
+,,,,,,Unified Threat Management (UTM) Manager,T1204.002
+,,,,,,Red Hat Enterprise Linux Server,T1213
+,,,,,,FortiVoice,T1218
+,,,,,,Aura Conferencing,T1218.010
+,,,,,,Big-Ip Edge Clients For Mac Os X 7101,T1221
+,,,,,,Exactamix Em1200,T1482
+,,,,,,Contact Center - Express,T1489
+,,,,,,Aura Application Enablement Services,T1497
+,,,,,,Sybase Open Server,T1497.001
+,,,,,,BladeLogic Decision Support for Server Automation,T1518
+,,,,,,Layer 7 Api Portal,T1543
+,,,,,,Simatic S7-1500 Cpu,T1505
+,,,,,,Debian Linux,T1505.003
+,,,,,,Windows Server 2016,T1529
+,,,,,,Security Appscan Source,T1539
+,,,,,,Tealeaf Cxverify,T1543.003
+,,,,,,Endpoint Manager For Remote Control,T1547.001
+,,,,,,Big-IP GTM,T1547.009
+,,,,,,Tivoli Endpoint Manager (Application),T1547
+,,,,,,GAiA OS,T1553
+,,,,,,Nonstop Volume Level Encryption J06.10.01,T1553.002
+,,,,,,Hp Integrated Lights-Out 2,T1555.003
+,,,,,,Oracle Mysql Workbench,T1559
+,,,,,,Hp Storeall Os,T1560
+,,,,,,Ssl Visibility Applicance,T1560.001
+,,,,,,Flex System Manager (Application),T1560.002
+,,,,,,IBM Flex System v7000 Storage Node,T1564
+,,,,,,T510 Thin Client,T1564.001
+,,,,,,Sybase IQ,T1564.003
+,,,,,,Mainview Console Automation For Zenterprise,T1566
+,,,,,,Airport Firmware,T1566.001
+,,,,,,Nonstop Volume Level Encryption J06.11.01,T1587.003
+,,,,,,Cloudplatform (Application),T1573.002
+,,,,,,Hp Storeever Esl G3 Tape Libraries,T1569
+,,,,,,Bluekai,T1569.002
+,,,,,,Sybase Adaptive Server Enterprise 16,T1571
+,,,,,,Xiv Storage System Gen3,T1572
+,,,,,,License Server Vpx,T1574
+,,,,,,AltaVault,T1574.001
+,,,,,,System X 3650,T1574.002
+,,,,,,XenClient XT,T1583
+,,,,,,BIG-IP Link Controller,T1583.003
+,,,,,,Windows 2003 Server (OS),T1584
+,,,,,,Xp P9500 Disk Array Oss 70-06-00/00,T1587
+,,,,,,T620 Thin Client,T1587.002
+,,,,,,FortiMail,T1588
+,,,,,,Big-Ip Edge Clients for Apple iOS,T1588.003
+,,,,,,Ehealth,T1588.004
+,,,,,,Nonstop Volume Level Encryption J06.14.01,T1595
+,,,,,,Unified IP Phone 8900,T1595.001
+,,,,,,Dcs-5615,
+,,,,,,D125 Copier/Printer,
+,,,,,,Systems Director Storage Control,
+,,,,,,Dynamic System Analysis,
+,,,,,,Hp Officejet Pro X576Dw,
+,,,,,,Email And Server Security 11,
+,,,,,,SQL Server,
+,,,,,,Horizon Workspace Server,
+,,,,,,Emc Data Protection Central,
+,,,,,,Red Hat Enterprise Linux Server AUS,
+,,,,,,Protection Service For Email,
+,,,,,,Imail Premium,
+,,,,,,Mysql Connector/C,
+,,,,,,Windows 10,
+,,,,,,Elan,
+,,,,,,Digi Embedded Yocto,
+,,,,,,Sybase Enterpriseconnect Data Access,
+,,,,,,General Parallel File System,
+,,,,,,Freeflow Print Server,
+,,,,,,Windows Rt 8.1,
+,,,,,,Smart Analytics System 5600 (Application),
+,,,,,,T5565 Thin Client,
+,,,,,,Version Control Repository Manager,
+,,,,,,Multi-Domain Management/Provider-1 NGX,
+,,,,,,Uim Configuration Pack,
+,,,,,,Oracle Communications Application Session Controller,
+,,,,,,Puredata System For Analytics,
+,,,,,,Receiver for Blackberry,
+,,,,,,Loadrunner,
+,,,,,,Tivoli Composite Application Manager For Transactions,
+,,,,,,Windows 8,
+,,,,,,Smart Update Manager,
+,,,,,,Moveit Cloud,
+,,,,,,Windows RT,
+,,,,,,Security Privileged Identity Manager,
+,,,,,,Security Appscan Enterprise,
+,,,,,,Digi Embedded Linux,
+,,,,,,Exactamix Em2400,
+,,,,,,Storage Manager,
+,,,,,,Word,
+,,,,,,Big-Ip Access Policy Manager,
+,,,,,,Airport Base Station,
+,,,,,,Contact Center Manager Administration,
+,,,,,,Ibm Endpoint Manager For Remote Control,
+,,,,,,Storage (Application),
+,,,,,,Uim Integrated Installer,
+,,,,,,Odyssey Access Client,
+,,,,,,Fortios,
+,,,,,,Scopia,
+,,,,,,Anyconnect Secure Mobility Client,
+,,,,,,Fortiauthenticator,
+,,,,,,Aura System Manager,
+,,,,,,SCADA Data Gateway,
+,,,,,,Flashsystem 840,
+,,,,,,Performance Center,
+,,,,,,Laserjet Pro M435Nw,
+,,,,,,WinCC Open Architecture,
+,,,,,,Rational Requisitepro,
+,,,,,,Enterprise Linux Server (OS),
+,,,,,,Aura Session Manager,
+,,,,,,Oracle Communications Webrtc Session Controller,
+,,,,,,Unified IP Phone 9900,
+,,,,,,Messaging Gateway,
+,,,,,,Updatexpress System Packs Installer,
+,,,,,,DesktopPlayer for Mac,
+,,,,,,Arcserve Replication,
+,,,,,,Windows 8.1 (OS),
+,,,,,,Big-IP AFM,
+,,,,,,Sybase Powerdesigner,
+,,,,,,Ts3000,
+,,,,,,Mysql Connector/Odbc,
+,,,,,,Tealeaf Cxconnect For Voice Of Customers,
+,,,,,,Manageability SDK (Application),
+,,,,,,Android,
+,,,,,,San Volume Controller (Application),
+,,,,,,Nonstop Volume Level Encryption J06.13,
+,,,,,,Endpoint Security Server,
+,,,,,,Nonstop Volume Level Encryption J06.15,
+,,,,,,Worklight (Application),
+,,,,,,SANtricity SMI-S Provider (Application),
+,,,,,,Laserjet Pro M701,
+,,,,,,Ibm Contact Optimization,
+,,,,,,Hp Server Automation,
+,,,,,,Netezza Platform Software,
+,,,,,,Hp Officejet Pro 276Dw,
+,,,,,,Windows Vista,
+,,,,,,Fedora,
+,,,,,,Windows,
+,,,,,,Big-IP LTM,
+,,,,,,Communicator For Android OS,
+,,,,,,.Net Framework (Application),
+,,,,,,Nonstop Volume Level Encryption J06.10,
+,,,,,,Netiq Access Manager,
+,,,,,,EMC Integrated Data Protection Appliance,
+,,,,,,Officescan 11,
+,,,,,,System X Idataplex Series,
+,,,,,,Data Center Security Appliances,
+,,,,,,Advanced Setting Utility,
+,,,,,,Oracle Communications Policy Management 12,
+,,,,,,Uim Deployment Pack,
+,,,,,,MiCollab,
+,,,,,,Ucmdb Browser,
+,,,,,,Oracle Solaris,
+,,,,,,Simatic S7-1500 Firmware,
+,,,,,,Nonstop Volume Level Encryption J06.16.02,
+,,,,,,Office Compatibility Pack,
+,,,,,,Uim System Updates,
+,,,,,,Ibm Security Network Protection Xgs 3100,
+,,,,,,Windows Server 2012 (OS),
+,,,,,,Smart Update Manager (Application),
+,,,,,,Insight Control Server Migration V7.3.1,
+,,,,,,Hp Officejet Pro X476Dn,
+,,,,,,Nonstop Volume Level Encryption J06.17,
+,,,,,,Oracle Communications Internet Name And Address Management,
+,,,,,,Airport Express Base Station,
+,,,,,,Color Laserjet Pro M476,
+,,,,,,Red Hat Enterprise Linux Desktop,
+,,,,,,Ibm System Storage Ds8870,
+,,,,,,Simatic Wincc Open Architecture,
+,,,,,,FlashRay (Hardware),
+,,,,,,Bladecenter Advanced Management Module,
+,,,,,,Big-Ip Edge Clients For Windows 7101,
+,,,,,,Sybase SQL Anywhere (Application),
+,,,,,,Sybase SDK,
+,,,,,,Tealeaf Cxview,
+,,,,,,P 2000,
+,,,,,,D95 Copier/Printer,
+,,,,,,ArcServe High Availability,
+,,,,,,Security Network Intrusion Prevention System,
+,,,,,,Snapprotect,
+,,,,,,Hp Officejet Pro X476Dw,
+,,,,,,Borland Silk Performer Synthetic Transaction Monitoring for BMC Software,
+,,,,,,Xenmobile App Controller,
+,,,,,,Business Process Monitor (Application),
+,,,,,,Insight Control Server Deployment (Application),
+,,,,,,Tivoli Netcool System Service Monitor,
+,,,,,,Infosphere Guardium,
+,,,,,,Toolscenter Suite,
+,,,,,,Commerce Server,
+,,,,,,Aura Communication Manager,
+,,,,,,Content Analysis System,
+,,,,,,Cloud System Chargeback,
+,,,,,,Rational Build Forge (Application),
+,,,,,,Virtuozzo Containers,
+,,,,,,Sterling Connect:Direct Browser,
+,,,,,,Oracle Communications Operations Monitor,
+,,,,,,Storwize V3500 (Application),
+,,,,,,XenClient Enterprise Engine,
+,,,,,,Upward Integration Modules (Uim),
+,,,,,,Word Viewer,
+,,,,,,Oracle Enterprise Manager Cloud Control,
+,,,,,,Primavera P6 Prof Project Management,
+,,,,,,Big-Ip Application Acceleration Manager,
+,,,,,,SMI-S Provider (Application),
+,,,,,,Systems Director,
+,,,,,,v60 Firmware,
+,,,,,,Objectscale,
+,,,,,,System X IMM2,
+,,,,,,Enterprise Linux Desktop (OS),
+,,,,,,Atrium Discovery and Dependency Mapping,
+,,,,,,Windows Server 2008,
+,,,,,,Tealeaf Cx,
+,,,,,,MainView Console Automation for Zenterprise,
+,,,,,,Hp Officejet Pro X551Dw,
+,,,,,,Tealeaf Cxconnect For Data Analysis,
+,,,,,,Tivoli Storage Productivity Center,
+,,,,,,Tealeaf Cxreveal,
+,,,,,,Enterprise Linux Server Tus,
+,,,,,,Windows 7,
+,,,,,,Windows Vista (OS),
+,,,,,,Windows Server 2012,
+,,,,,,Ruby,
+,,,,,,Systems Director Agent,
+,,,,,,Dns/Dhcp Server,
+,,,,,,Oracle Enterprise Manager Grid Control 12C,
+,,,,,,Thinpro Os,
+,,,,,,Insight Management Vcem Web Client Sdk,
+,,,,,,Windows 8.1,
+,,,,,,Nt (OS),
+,,,,,,Smartcloud Provisioning (Application),
+,,,,,,Oracle Communications Policy Management 11,
+,,,,,,Cloudsystem Foundation,
+,,,,,,Msa 1040 Storage,
+,,,,,,SSL Network Extender,
+,,,,,,Oncommand Workflow Automation,
+,,,,,,Nonstop Volume Level Encryption J06.13.01,
+,,,,,,Mguard,
+,,,,,,Worx Home,
+,,,,,,Connect-It (Cit),
+,,,,,,Contact Center Manager Server,
+,,,,,,Mobile Platform Sdk,
+,,,,,,Opensuse,
+,,,,,,Flex System V7000 Storage Node,
+,,,,,,Ubuntu Linux,
+,,,,,,Arcserve D2D,
+,,,,,,Red Hat Enterprise Linux Hpc Node,
+,,,,,,Transaction Management Application Response Time,
+,,,,,,Endpoint Connect,
+,,,,,,Visual Foxpro (Application),
+,,,,,,Hp Officejet Pro 251Dw,
+,,,,,,Laserjet Pro 500,
+,,,,,,Oncommand Unified Manager Core Package,
+,,,,,,Red Hat Enterprise Virtualization,
+,,,,,,Imail Secure,
+,,,,,,Psb Server Security,
+,,,,,,Sybase Agentry,
+,,,,,,Websphere Cast Iron Cloud Integration,
+,,,,,,Cloudsystem Enterprise,
+,,,,,,EcoMeter,
+,,,,,,Big-Ip Edge Clients For Mac Os X 7080,
+,,,,,,ArcServe Replication,
+,,,,,,Connectport Lts,
+,,,,,,Red Hat Enterprise Linux Workstation,
+,,,,,,Messaging Secure Gateway,
+,,,,,,Office,
+,,,,,,System X3100 Series,
+,,,,,,Enterprise Linux Workstation,
+,,,,,,Big-Ip Edge Clients For Windows 7080,
+,,,,,,System X3750,
+,,,,,,Simatic Cp 1543-1,
+,,,,,,Ape,
+,,,,,,Systems Insight Manager (Application),
+,,,,,,System Management Homepage,
+,,,,,,Sybase Sql Anywhere,
+,,,,,,Server Message Block,
+,,,,,,Netezza (Application),
+,,,,,,Windows Rt,
+,,,,,,D136 Copier/Printer,
+,,,,,,Os/400,
+,,,,,,Big-IP PSM,
+,,,,,,Network Interactive Voice Response,
+,,,,,,Windows Server 2008 (OS),
+,,,,,,Tealeaf Cximpact,
+,,,,,,Flex System X440,
+,,,,,,T505 Thin Client,
+,,,,,,Configuration Management System,
+,,,,,,Email And Server Security (Application),
+,,,,,,Msa 2040 Storage,
+,,,,,,Laserjet Pro M521,
+,,,,,,Nonstop Volume Level Encryption J06.14,
+,,,,,,Imail,
+,,,,,,Unified IP Phone 7900,
+,,,,,,Infosphere Guardium Data Encryption,
+,,,,,,Rational Team Concert (Application),
+,,,,,,Nonstop Volume Level Encryption J06.16.03,
+,,,,,,Nonstop Volume Level Encryption J06.16,
+,,,,,,Autonomy Worksite Server Sp1,
+,,,,,,Rox I,
+,,,,,,Oracle Communications Network,
+,,,,,,Ibm Campaign,
+,,,,,,Oracle Communications Interactive Session Recorder,
+,,,,,,v100 Firmware,
+,,,,,,Fortirecorder,
+,,,,,,Opc Ua Sdk,
+,,,,,,Xp P9500 Disk Array Oss 70-06-01/00,
+,,,,,,Oracle Mobile Security Suite,
+,,,,,,WebSphere MQ,
+,,,,,,Arubaos,
+,,,,,,Hp Officejet Pro X451Dw,
+,,,,,,System X3200 Series,
+,,,,,,SANtricity Management Plug-ins (Application),
+,,,,,,Oracle Linux,
+,,,,,,Hp 3Par Os,
+,,,,,,Hp Officejet Pro X451Dn,
+,,,,,,Big-Ip Pem,
+,,,,,,Tomcat Native,
+,,,,,,XenMobile MDX Toolkit & SDK,
+,,,,,,Network Connect,
+,,,,,,IPSO,
+,,,,,,Uim Inventory Tool,
+,,,,,,Atvise,
+,,,,,,AIX,
+,,,,,,Insight Control Server Migration V7.3,
+,,,,,,Tealeaf Cx Mobile,
+,,,,,,Clustered Data ONTAP Antivirus Connector (Application),
+,,,,,,Tealeaf Cxconnect For Web Analytics,
+,,,,,,Layer 7 Mobile Access Gateway,
+,,,,,,Aura Utility Services,
+,,,,,,Oracle Communications Diameter Signaling Router,
+,,,,,,Nonstop Volume Level Encryption J06.16.01,
+,,,,,,Big-Ip Analytics,
+,,,,,,Rox Ii,
+,,,,,,Multimedia Service Environment,
+,,,,,,Sybase Replication Server,
+,,,,,,Storwize V3700 (Application),
+,,,,,,Visual Basic,
+,,,,,,Nonstop Volume Level Encryption J06.15.02,
+,,,,,,Aura Collaboration Environment,
+,,,,,,Media Processing Server,
+,,,,,,Proxysg,
+,,,,,,Enterprise Linux Server Eus,
+,,,,,,Systems Insight Manager,
+,,,,,,Bladesystem C-Class Virtual Connect Support Utility,
+,,,,,,Red Hat Enterprise Linux Server EUS,
+,,,,,,Ibrix X9320,
+,,,,,,Windows 7 (OS),
+,,,,,,Flex System x222 (Firmware),
+,,,,,,Address Manager,
+,,,,,,End User Experience Management,
+,,,,,,Hp Service Manager,
+,,,,,,Insight Control Server Deployment,
+,,,,,,Windows Rt 8.1 (OS),
+,,,,,,Office (Application),
+,,,,,,Communications Session Monitor,
+,,,,,,Rational Clearcase,
+,,,,,,CP 1543-1 Firmware,
+,,,,,,Mobile Platform SDK,
+,,,,,,Oracle MySQL Enterprise Monitor,
+,,,,,,SecurePlatform,
+,,,,,,Call Management System (CMS),
+,,,,,,HP Diagnostics,
+,,,,,,Telepresence Video Communication Server,
+,,,,,,Content Analysis System (Application),
