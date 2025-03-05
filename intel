@@ -2,14 +2,44 @@ https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2058%20-%2
 https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2059%20-%20DeviceNetworkEvents%20From%20FileZilla%20with%20Enriched%20IP%20Information.md
 https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2060%20-%20DeviceNetworkEvents%20From%20WinSCP%20with%20Enriched%20IP%20Information.md
 https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2061%20-%20SoftPerfect%20Network%20Scanner%20Usage.md
-https://medium.com/@S3N4T0R/mustang-panda-apt-adversary-simulation-d9ffed439ac7
+https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2062%20-%20PortableApps%20Application%20Observed.md
+https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2063%20-%20File%20Added%20to%20Startup%20Folder.md
 
 
 https://github.com/excalidraw/excalidraw
 
-https://unit42.paloaltonetworks.com/javaghost-cloud-phishing/
-https://www.silentpush.com/blog/lumma-stealer/
-https://www.netskope.com/blog/fake-captchas-malicious-pdfs-seo-traps-leveraged-for-user-manual-searches
+https://www.nextgov.com/people/2025/03/nist-fires-over-70-probationary-employees/403459/
 
-https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2062%20-%20PortableApps%20Application%20Observed.md
-https://gitlab.com/kalilinux/kali-purple/documentation/-/wikis/101_20:-OpenCTI-Installation
+https://medium.com/@t3chi3/installing-open-source-cti-platform-part-1-c9943ebcf6d3
+
+https://github.com/OpenCTI-Platform/connectors/tree/master/internal-enrichment/recordedfuture-enrichment
+https://github.com/OpenCTI-Platform/connectors/tree/master/internal-enrichment/greynoise-vuln
+
+
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/cisa-known-exploited-vulnerabilities
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/crowdstrike
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/cve
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/feedly
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/fortinet-ti
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/greynoise-feed
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/hunt-io
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/intel471_v2
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/malwarebazaar-recent-additions
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/mandiant
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/mitre-atlas
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/opencti
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/proofpoint-et-reputation
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/ransomwarelive
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/recorded-future
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/shadowserver
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/socprime
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/tenable-vuln-management
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/threatfox
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/urlhaus-recent-payloads
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/urlscan
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/valhalla
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/virustotal-livehunt-notifications
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/vulncheck
+https://github.com/OpenCTI-Platform/connectors/tree/master/external-import/wiz
+
+https://www.youtube.com/watch?v=dYLodIobSnw
