@@ -29,3 +29,4 @@ https://bsky.app/profile/ericjgeller.com/post/3lk4puj3pul2k
 
 "Upside down pyramid" Top is number of log entries retrieved. Next is number of anomalies, next is number of alerts, number of events, then, finally number of incidents. I show the actual numbers as well as a percentage of each compared to the one above. That will show any type of spike or change that we need to review and shows what the team actually looks at to managemen
 https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2071%20-%20cscript.exe%20or%20wscript.exe%20Launched%20with%20Script%20Engine%20Parameter.md
+https://cradle.sh/
