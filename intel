@@ -1,16 +1,3 @@
-https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2058%20-%20regsvr32.exe%20or%20rundll32.exe%20Loading%20a%20DLL%20with%20an%20Invalid%20Signature.md
-https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2062%20-%20PortableApps%20Application%20Observed.md
-https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2063%20-%20File%20Added%20to%20Startup%20Folder.md
-https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2067%20-%20Potential%20Discovery%20via%20PowerShell%20Test-Connection%20and%20Test-NetConnection.md
-
-
-
-https://nvd.nist.gov/vuln/detail/CVE-2025-2476
-https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop_19.html
-
-
-https://redcanary.com/blog/threat-detection/2025-threat-detection-report/
-
 "Upside down pyramid" Top is number of log entries retrieved. Next is number of anomalies, next is number of alerts, number of events, then, finally number of incidents. I show the actual numbers as well as a percentage of each compared to the one above. That will show any type of spike or change that we need to review and shows what the team actually looks at to managemen
 https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2071%20-%20cscript.exe%20or%20wscript.exe%20Launched%20with%20Script%20Engine%20Parameter.md
 https://cradle.sh/
@@ -18,6 +5,8 @@ https://detection.studio/
 https://huntdb.com
 https://github.com/excalidraw/excalidraw
 https://hunt.io/glossary/ttp-threat-hunting
+
+https://redcanary.com/blog/threat-detection/2025-threat-detection-report/
 
 https://app.validin.com/threats/detailed/socgholish
 
