@@ -21,3 +21,6 @@ https://urlhaus.abuse.ch/browse.php?search=tag%3Afakeupdates
 
 https://threatfox.abuse.ch/browse/tag/FakeUpdateRU/
 https://search.censys.io/search?resource=hosts&sort=RELEVANCE&per_page=25&virtual_hosts=INCLUDE&q=services.software.product%3A+fake-chrome-update
+
+https://trac-labs.com/dont-ghost-the-socgholish-ghostweaver-backdoor-574154dd9983
+https://detect.fyi/hunting-clickfix-initial-access-techniques-8c1b38d5ef9b
