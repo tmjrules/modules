@@ -1,5 +1,4 @@
 "Upside down pyramid" Top is number of log entries retrieved. Next is number of anomalies, next is number of alerts, number of events, then, finally number of incidents. I show the actual numbers as well as a percentage of each compared to the one above. That will show any type of spike or change that we need to review and shows what the team actually looks at to managemen
-https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2071%20-%20cscript.exe%20or%20wscript.exe%20Launched%20with%20Script%20Engine%20Parameter.md
 https://cradle.sh/
 https://detection.studio/
 https://huntdb.com
@@ -9,22 +8,18 @@ https://hunt.io/glossary/ttp-threat-hunting
 https://redcanary.com/blog/threat-detection/2025-threat-detection-report/
 
 https://app.validin.com/threats/detailed/socgholish
-
 https://threatfox.abuse.ch/browse/tag/SocGholish/
 https://threatfox.abuse.ch/browse/malware/js.fakeupdates/
-
-https://bazaar.abuse.ch/browse.php?search=tag%3Asocgholish
-https://bazaar.abuse.ch/browse/tag/FakeUpdates/
-
-https://urlhaus.abuse.ch/browse.php?search=tag%3Asocgholish
-https://urlhaus.abuse.ch/browse.php?search=tag%3Afakeupdates
-
 https://threatfox.abuse.ch/browse/tag/FakeUpdateRU/
 https://search.censys.io/search?resource=hosts&sort=RELEVANCE&per_page=25&virtual_hosts=INCLUDE&q=services.software.product%3A+fake-chrome-update
 
+https://bazaar.abuse.ch/browse.php?search=tag%3Asocgholish
+https://bazaar.abuse.ch/browse/tag/FakeUpdates/
+https://urlhaus.abuse.ch/browse.php?search=tag%3Asocgholish
+https://urlhaus.abuse.ch/browse.php?search=tag%3Afakeupdates
+
 https://trac-labs.com/dont-ghost-the-socgholish-ghostweaver-backdoor-574154dd9983
 https://detect.fyi/hunting-clickfix-initial-access-techniques-8c1b38d5ef9b
-
 
 https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2079%20-%20PowerShell%20Process%20Launching%20PowerShell%20Process%20with%20Encoded%20Command.md
 https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2080%20-%20mshta.exe%20Executing%20Raw%20Script%20From%20Command%20Line.md
