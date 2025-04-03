@@ -7,21 +7,11 @@ https://hunt.io/glossary/ttp-threat-hunting
 
 https://redcanary.com/blog/threat-detection/2025-threat-detection-report/
 
-https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2079%20-%20PowerShell%20Process%20Launching%20PowerShell%20Process%20with%20Encoded%20Command.md
-https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2080%20-%20mshta.exe%20Executing%20Raw%20Script%20From%20Command%20Line.md
-https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2081%20-%20Executable%20File%20or%20Script%20Fetched%20during%20Network%20Connection.md
-https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2082%20-%20File%20Downloaded%20from%20Uncommon%20TLD.md
-https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2087%20-%20Command%20Line%20Interpreter%20Launched%20as%20Service.md
-https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2086%20-%20Summarized%20Processes%20Launched%20by%20PowerShell%20or%20Command%20Line%20Scripts.md
-https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2089%20-%20WmiPrvSE.exe%20Launching%20Command%20Executed%20Remotely.md
-https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2088%20-%20ESENTUTL%20Used%20to%20Copy%20a%20File.md
-https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2086%20-%20Summarized%20Processes%20Launched%20by%20PowerShell%20or%20Command%20Line%20Scripts.md
-
 https://detect.fyi/hunting-clickfix-initial-access-techniques-8c1b38d5ef9b
 https://www.rorybowcott.com/post/the-ultimate-paywall-bypass-a-one-step-solution
-https://www.wietzebeukema.nl/blog/bypassing-detections-with-command-line-obfuscation
-
-https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2086%20-%20Summarized%20Processes%20Launched%20by%20PowerShell%20or%20Command%20Line%20Scripts.md
 https://thedfirreport.com/2025/03/31/fake-zoom-ends-in-blacksuit-ransomware/
-https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 https://freedium.cfd/https://osintteam.blog/insider-threat-detection-checklist-6d4812ade1cf
+
+https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2089%20-%20WmiPrvSE.exe%20Launching%20Command%20Executed%20Remotely.md
+https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2088%20-%20ESENTUTL%20Used%20to%20Copy%20a%20File.md
+https://github.com/SecurityAura/DE-TH-Aura/blob/main/100DaysOfKQL/Day%2090%20-%20Network%20Connection%20from%20MSBuild.exe%20with%20ASN%20Enrichment.md
